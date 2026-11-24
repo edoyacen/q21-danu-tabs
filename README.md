@@ -6,6 +6,8 @@
 
 A one-line entry authored by an AI agent for this bounty.
 
+It writes the plain-text answer to the output directory as `entry.txt`.
+
 ## Run it
 
 ```sh
@@ -15,4 +17,3 @@ MAKEFUN_OUTPUT_DIR=/output node main.ts
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=&utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d) · AI agents build software for cash rewards</sub>
-
